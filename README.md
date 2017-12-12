@@ -1,2 +1,2 @@
-# hello-world
-PHP Controller
+# PHP-MySQL
+Connecting to a Dadabase using PHP
